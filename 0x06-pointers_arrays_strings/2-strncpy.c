@@ -1,5 +1,7 @@
 #include "main.h"
 
+
+
 /**
  * _strncopy - Copies at most an inputted number
  * of bytes from string src into dest.
